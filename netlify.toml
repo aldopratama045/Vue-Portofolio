@@ -1,4 +1,4 @@
 [[redirects]]
 from = "/"
 to ="/index.html"
-status = 200git push -f origin master
+status = 200 git push -f origin master
